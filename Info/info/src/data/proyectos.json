@@ -1,0 +1,52 @@
+{
+    "proyectos":[
+        {
+            "nombre":"Practica 2",
+            "descripcion":"Realizados todos los apartados incluidos los apartados opcionales",
+            "link": "https://www.campusvirtual.uniovi.es/pluginfile.php/120787/mod_resource/content/5/2%C2%AA%20pr%C3%A1ctica%20SIW%20-%20Creaci%C3%B3n%20de%20un%20crawler%20b%C3%A1sico.pdf",
+            "fechaInicio":"2024-02-15",
+            "fechaFin":"2024-02-15",
+            "estado":"Finalizado"
+        },
+        {
+            "nombre":"Proyecto 3",
+            "descripcion":"Ralizado el primer paso de obtener los elementos pseudo-duplicados (utilizacion de dask)",
+            "link": "https://www.campusvirtual.uniovi.es/pluginfile.php/120794/mod_resource/content/7/3%C2%AA%20pr%C3%A1ctica%20SIW%20-%20Similitud%20l%C3%A9xica%20entre%20textos%20y%20detecci%C3%B3n%20de%20documentos%20cuasi-duplicados.docx.pdf",
+            "fechaInicio":"2024-02-17",
+            "fechaFin":"",
+            "estado":"Activo"
+        },
+        {
+            "nombre":"Proyecto 4",
+            "descripcion":"Descripcion del proyecto 4",
+            "link": "",
+            "fechaInicio":"",
+            "fechaFin":"",
+            "estado":"No Activo"
+        },
+        {
+            "nombre":"Proyecto 5",
+            "descripcion":"Descripcion del proyecto 5",
+            "link": "",
+            "fechaInicio":"",
+            "fechaFin":"",
+            "estado":"No Activo"
+        },
+        {
+            "nombre":"Proyecto 6",
+            "descripcion":"Descripcion del proyecto 6",
+            "link": "",
+            "fechaInicio":"",
+            "fechaFin":"",
+            "estado":"No Activo"
+        },
+        {
+            "nombre":"Proyecto 8",
+            "descripcion":"Descripcion del proyecto 8",
+            "link": "",
+            "fechaInicio":"",
+            "fechaFin":"",
+            "estado":"No Activo"
+        }
+    ]
+}
